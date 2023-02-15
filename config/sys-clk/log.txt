@@ -1,0 +1,1389 @@
+[2023-01-13 19:38:19.013] === sys-clk 1.0.1-5-gdcd0d5d ===
+[2023-01-13 19:38:24.971] Ready
+[2023-01-13 19:38:24.998] [mgr] sys-clk status: enabled
+[2023-01-13 19:38:25.098] [mgr] TitleID change: 0100000000001000
+[2023-01-13 19:38:25.183] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-13 19:38:25.215] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-13 19:38:25.249] [mgr] Memory clock change: 1331.2 Mhz
+[2023-01-13 19:38:25.574] [cfg] Reading /config/sys-clk/config.ini
+[2023-01-13 19:38:25.588] [cfg] Error finding file
+[2023-01-13 19:38:26.528] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-13 19:38:26.550] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-13 19:39:40.049] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-13 19:39:40.065] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-13 19:39:40.970] [mgr] TitleID change: 01007EF00011E000
+[2023-01-13 19:39:41.306] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-13 19:39:41.313] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-13 19:39:42.016] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-13 19:39:42.315] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-13 19:39:48.663] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-13 19:39:48.675] [mgr] GPU clock change: 460.8 Mhz
+[2023-01-13 19:39:48.993] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-13 19:39:50.226] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-13 19:39:50.539] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-13 19:39:50.548] [mgr] GPU clock change: 460.8 Mhz
+[2023-01-13 19:39:58.222] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-13 19:39:58.233] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-13 19:40:14.827] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-13 19:40:14.847] [mgr] GPU clock change: 460.8 Mhz
+[2023-01-13 19:41:21.171] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-13 19:41:21.176] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-13 19:41:28.849] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-13 19:41:28.858] [mgr] GPU clock change: 460.8 Mhz
+[2023-01-13 19:43:23.911] [mgr] TitleID change: 0100000000001000
+[2023-01-13 19:43:26.110] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-13 19:44:30.013] === sys-clk 1.0.1-5-gdcd0d5d ===
+[2023-01-13 19:44:36.879] Ready
+[2023-01-13 19:44:36.983] [mgr] sys-clk status: enabled
+[2023-01-13 19:44:37.119] [mgr] TitleID change: 0100000000001000
+[2023-01-13 19:44:37.164] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-13 19:44:37.306] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-13 19:44:37.331] [mgr] Memory clock change: 1331.2 Mhz
+[2023-01-13 19:44:37.650] [cfg] Reading /config/sys-clk/config.ini
+[2023-01-13 19:44:37.656] [cfg] Error finding file
+[2023-01-13 19:44:38.582] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-13 19:44:38.600] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-13 19:44:58.987] [mgr] TitleID change: 01006BB00C6F0000
+[2023-01-13 19:44:59.038] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-13 19:44:59.056] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-13 19:44:59.377] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-13 19:44:59.382] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-13 19:45:00.002] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-13 19:45:00.032] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-13 19:45:05.096] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-13 19:45:05.184] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-13 19:46:02.890] [mgr] TitleID change: 0100000000001000
+[2023-01-13 19:46:02.912] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-13 19:46:36.215] [cfg] Reading /config/sys-clk/config.ini
+[2023-01-13 19:46:52.233] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-13 19:46:52.348] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-13 19:46:53.882] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-13 19:46:53.890] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-13 19:46:54.511] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-13 19:46:54.524] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-13 19:46:54.882] [mgr] TitleID change: 050000BADDAD0000
+[2023-01-13 19:46:55.511] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-13 19:46:55.519] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-13 19:46:55.862] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-13 19:46:55.868] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-13 19:47:55.836] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-13 19:48:10.794] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-13 19:49:10.744] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-13 19:49:26.016] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-13 19:49:54.935] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-13 19:49:54.992] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-13 19:49:55.318] [mgr] TitleID change: 0100000000001000
+[2023-01-13 19:49:55.949] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-13 19:49:56.455] [mgr] TitleID change: 050000BADDAD0000
+[2023-01-13 19:49:57.102] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-13 19:49:58.962] [mgr] TitleID change: 0100000000001000
+[2023-01-13 19:51:20.072] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-13 19:51:20.081] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-13 19:51:20.398] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-13 19:51:20.405] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-13 19:56:19.787] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-13 19:56:19.854] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-13 19:56:20.567] [mgr] TitleID change: 01006BB00C6F0000
+[2023-01-13 19:56:20.891] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-13 19:56:20.898] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-13 19:56:21.514] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-13 19:56:21.532] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-13 19:56:22.791] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-13 19:56:22.802] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-13 19:57:02.687] [mgr] TitleID change: 0100000000001000
+[2023-01-13 19:57:02.752] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-13 20:08:00.367] [mgr] TitleID change: 050000BADDAD0000
+[2023-01-13 20:08:00.391] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-13 20:08:00.458] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-13 20:08:01.086] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-13 20:08:01.093] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-13 20:08:02.336] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-13 20:08:02.344] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-13 20:08:09.062] [mgr] Profile change: USB Charger
+[2023-01-13 20:09:02.307] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-13 20:09:17.566] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-13 20:09:43.069] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-13 20:09:43.079] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-22 00:31:05.008] === sys-clk 1.0.1-5-gdcd0d5d ===
+[2023-01-22 00:31:11.991] Ready
+[2023-01-22 00:31:12.129] [mgr] sys-clk status: enabled
+[2023-01-22 00:31:12.183] [mgr] TitleID change: 0100000000001000
+[2023-01-22 00:31:12.228] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 00:31:12.249] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 00:31:12.298] [mgr] Memory clock change: 1331.2 Mhz
+[2023-01-22 00:31:12.621] [cfg] Reading /config/sys-clk/config.ini
+[2023-01-22 00:31:13.552] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 00:31:13.577] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-22 09:38:59.008] === sys-clk 1.0.1-5-gdcd0d5d ===
+[2023-01-22 09:39:06.672] Ready
+[2023-01-22 09:39:06.715] [mgr] sys-clk status: enabled
+[2023-01-22 09:39:06.850] [mgr] TitleID change: 0100000000001000
+[2023-01-22 09:39:06.942] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 09:39:06.954] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 09:39:06.968] [mgr] Memory clock change: 1331.2 Mhz
+[2023-01-22 09:39:07.292] [cfg] Reading /config/sys-clk/config.ini
+[2023-01-22 09:39:08.218] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 09:39:08.234] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-22 09:39:54.008] === sys-clk 1.0.1-5-gdcd0d5d ===
+[2023-01-22 09:40:01.675] Ready
+[2023-01-22 09:40:01.733] [mgr] sys-clk status: enabled
+[2023-01-22 09:40:01.868] [mgr] TitleID change: 0100000000001000
+[2023-01-22 09:40:01.992] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 09:40:02.029] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 09:40:02.042] [mgr] Memory clock change: 1331.2 Mhz
+[2023-01-22 09:40:02.362] [cfg] Reading /config/sys-clk/config.ini
+[2023-01-22 09:40:03.285] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 09:40:03.295] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-22 09:41:01.008] === sys-clk 1.0.1-5-gdcd0d5d ===
+[2023-01-22 09:41:09.027] Ready
+[2023-01-22 09:41:09.092] [mgr] sys-clk status: enabled
+[2023-01-22 09:41:09.223] [mgr] TitleID change: 0100000000001000
+[2023-01-22 09:41:09.256] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 09:41:09.293] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 09:41:09.342] [mgr] Memory clock change: 1331.2 Mhz
+[2023-01-22 09:41:09.660] [cfg] Reading /config/sys-clk/config.ini
+[2023-01-22 09:41:10.600] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 09:41:10.610] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-22 09:41:58.008] === sys-clk 1.0.1-5-gdcd0d5d ===
+[2023-01-22 09:42:05.693] Ready
+[2023-01-22 09:42:05.727] [mgr] sys-clk status: enabled
+[2023-01-22 09:42:05.857] [mgr] TitleID change: 0100000000001000
+[2023-01-22 09:42:05.974] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 09:42:05.984] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 09:42:05.996] [mgr] Memory clock change: 1331.2 Mhz
+[2023-01-22 09:42:06.335] [cfg] Reading /config/sys-clk/config.ini
+[2023-01-22 09:42:07.264] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 09:42:07.277] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-22 12:37:54.566] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:37:54.615] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:37:55.346] [mgr] TitleID change: 01006BB00C6F0000
+[2023-01-22 12:37:55.679] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:37:55.684] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-22 12:37:56.299] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:37:56.312] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:38:01.259] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:38:01.289] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:38:31.137] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:38:31.162] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:38:40.445] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:38:40.463] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:40:23.167] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:40:23.175] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:40:25.017] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:40:25.025] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:40:42.211] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:40:42.236] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:40:42.571] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:40:42.578] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:40:51.169] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:40:51.197] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:40:51.525] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:40:51.535] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:41:36.634] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:41:36.654] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:41:37.894] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:41:37.899] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:42:06.814] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:42:06.838] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:42:07.467] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:42:07.476] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:42:18.530] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:42:18.551] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:42:18.885] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:42:18.894] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:42:29.637] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:42:29.648] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:42:30.872] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:42:30.880] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:42:57.635] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:42:57.645] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:42:58.264] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:42:58.272] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:43:04.408] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:43:04.419] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:43:04.728] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:43:04.735] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:43:18.254] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:43:18.265] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:43:19.489] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:43:19.499] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:43:32.719] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:43:32.725] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:43:33.338] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:43:33.363] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:43:47.812] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:43:47.817] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:43:49.047] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:43:49.058] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:43:52.747] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:43:52.752] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:43:53.378] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:43:53.397] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:43:57.394] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:43:57.705] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:44:02.619] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:44:02.629] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:44:02.944] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:44:02.950] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:44:22.897] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:44:22.910] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:44:23.829] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:44:23.842] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:45:43.253] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:45:43.282] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:45:43.914] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:45:43.920] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:46:38.838] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:46:38.844] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:46:40.072] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:46:40.082] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:47:10.198] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:47:10.219] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:47:11.151] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:47:11.160] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:47:27.733] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:47:27.741] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:47:28.665] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:47:28.682] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:49:19.979] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:49:19.999] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:49:21.851] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:49:21.859] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:49:44.064] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:49:44.093] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:49:44.729] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:49:44.751] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:49:47.843] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:49:47.851] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:49:48.772] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:49:48.800] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:51:19.181] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:51:19.201] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:51:20.142] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:51:20.149] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:51:29.661] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:51:29.667] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:51:30.588] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:51:30.607] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:51:33.369] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:51:33.375] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:51:33.998] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:51:34.017] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:53:53.055] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:53:53.067] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:53:53.985] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:53:53.995] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:54:26.014] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:54:26.022] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:54:27.253] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:54:27.260] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:54:30.339] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:54:30.346] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:54:30.962] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:54:30.970] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:54:47.538] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:54:47.547] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:54:48.467] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:54:48.475] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:55:31.259] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:55:31.280] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:55:32.215] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:55:32.225] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:56:07.513] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:56:07.520] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:56:08.747] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:56:08.755] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 12:56:58.247] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 12:56:58.252] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 12:56:58.865] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 12:56:58.872] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:03:24.609] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:03:24.620] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:03:25.549] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:03:25.578] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:05:29.743] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:05:29.766] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:05:30.408] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:05:30.445] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:05:38.425] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:05:38.430] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:05:39.654] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:05:39.665] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:08:15.167] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:08:15.175] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:08:15.793] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:08:15.801] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:08:40.352] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:08:40.371] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:08:41.598] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:08:41.605] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:09:21.400] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:09:21.409] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:09:22.634] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:09:22.645] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:10:13.719] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:10:13.724] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:10:14.645] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:10:14.652] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:10:17.728] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:10:17.735] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:10:18.972] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:10:18.982] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:11:45.993] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:11:46.020] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:11:46.647] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:11:46.682] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:12:49.571] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:12:49.578] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:12:50.803] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:12:50.812] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:15:15.284] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:15:15.310] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:15:16.237] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:15:16.248] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:16:03.859] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:16:03.866] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:16:04.795] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:16:04.818] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:16:30.939] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:16:30.946] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:16:31.562] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:16:31.570] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:16:39.255] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:16:39.268] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:16:40.494] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:16:40.501] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:25:32.338] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:25:32.345] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:25:33.270] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:25:33.298] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:26:33.279] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:26:33.288] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:26:36.048] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:26:36.054] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:27:48.421] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-22 13:31:48.785] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:44:19.017] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:44:19.025] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:44:19.354] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:44:19.407] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:44:40.006] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:44:40.013] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:44:40.324] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:44:40.353] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:45:01.562] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:45:01.571] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:45:01.884] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:45:01.892] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:45:18.470] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:45:18.475] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:45:19.092] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:45:19.122] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:46:48.426] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:46:48.437] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:46:49.051] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:46:49.057] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:47:25.912] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:47:25.922] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:47:26.233] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:47:26.240] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:47:40.668] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:47:40.678] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:47:40.987] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:47:41.015] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:47:45.643] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:47:45.650] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:47:45.969] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:47:45.975] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:47:47.822] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:47:47.829] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:47:48.445] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:47:48.458] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:48:15.187] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:48:15.203] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:48:15.521] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:48:15.550] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:48:20.492] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:48:20.501] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:48:20.812] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:48:20.844] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:48:22.725] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:48:22.736] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:48:23.053] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:48:23.090] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:50:00.733] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:50:00.740] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:50:01.361] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:50:01.368] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:50:40.342] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:50:40.350] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:50:41.278] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:50:41.300] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:51:00.976] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:51:00.984] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:51:01.601] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:51:01.612] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:51:12.648] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:51:12.656] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:51:13.591] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:51:13.616] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:51:59.454] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:51:59.485] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:52:00.429] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:52:00.438] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:52:16.391] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:52:16.399] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:52:17.329] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:52:17.354] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:53:32.324] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:53:32.349] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:53:33.287] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:53:33.319] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:53:46.214] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:53:46.223] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:53:47.452] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:53:47.457] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:53:50.234] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:53:50.241] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:53:50.861] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:53:50.891] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:54:02.571] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:54:02.577] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:54:03.503] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:54:03.509] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:55:18.479] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:55:18.487] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:55:19.410] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:55:19.439] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:56:46.467] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:56:46.489] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:56:47.427] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:56:47.434] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:57:08.926] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-22 13:58:18.023] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:58:38.595] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:58:38.607] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:58:39.526] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:58:39.554] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:59:26.320] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:59:26.348] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:59:27.287] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:59:27.317] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:59:42.077] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:59:42.083] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:59:43.019] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:59:43.057] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 13:59:50.152] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 13:59:50.174] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 13:59:50.807] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 13:59:50.820] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 14:00:28.576] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 14:00:28.583] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 14:00:29.810] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 14:00:29.841] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 14:01:32.852] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 14:01:32.859] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 14:01:33.783] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 14:01:33.789] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 14:01:46.977] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 14:01:46.989] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 14:01:47.919] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 14:01:47.944] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 14:02:05.792] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 14:02:05.822] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 14:02:07.079] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 14:02:07.107] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 14:02:18.172] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 14:02:18.184] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 14:02:19.410] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 14:02:19.418] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 14:06:12.917] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-22 14:06:37.963] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 14:06:48.120] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 14:06:48.148] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 14:06:49.082] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 14:06:49.090] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 14:07:50.158] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 14:07:50.165] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 14:07:51.407] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 14:07:51.433] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 14:14:22.532] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 14:14:22.537] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 14:14:23.166] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 14:14:23.182] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 14:14:32.084] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 14:14:32.090] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 14:14:33.318] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 14:14:33.350] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 14:17:04.565] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 14:17:04.572] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 14:17:05.190] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 14:17:05.233] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 14:17:26.719] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 14:17:26.726] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 14:17:27.957] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 14:17:27.973] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 14:20:09.795] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 14:20:09.802] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 14:20:10.722] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 14:20:10.736] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 14:20:23.618] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 14:20:23.624] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 14:20:24.549] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 14:20:24.574] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 14:20:29.501] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 14:20:29.517] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 14:20:31.375] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 14:20:31.398] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 14:21:16.609] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 14:21:16.631] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 14:21:16.954] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 14:21:16.965] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 14:21:55.960] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 14:21:55.974] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 14:21:56.295] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 14:21:56.303] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 14:23:31.222] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 14:23:31.235] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 14:23:31.552] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 14:23:31.568] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 14:29:36.221] [mgr] TitleID change: 0100000000001000
+[2023-01-22 14:29:36.242] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-22 14:52:04.723] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 14:52:04.735] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 14:52:05.967] [mgr] TitleID change: 010057D006492000
+[2023-01-22 14:52:06.306] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 14:52:06.324] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-22 14:52:11.971] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 14:52:54.100] [mgr] TitleID change: 0100000000001000
+[2023-01-22 14:52:54.120] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-22 15:09:41.539] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 15:09:41.555] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 15:09:42.775] [mgr] TitleID change: 01002A0012A0A000
+[2023-01-22 15:09:43.112] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 15:09:43.125] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-22 15:10:13.462] [mgr] TitleID change: 0100000000001000
+[2023-01-22 15:34:58.589] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 15:34:58.605] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 15:34:59.620] [mgr] TitleID change: 010057D006492000
+[2023-01-22 15:34:59.948] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 15:34:59.956] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-22 15:35:05.507] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 15:40:59.954] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 15:40:59.961] [mgr] Memory clock change: 1600.0 Mhz
+[2023-01-22 15:41:11.568] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 15:41:11.577] [mgr] Memory clock change: 1331.2 Mhz
+[2023-01-22 16:06:31.062] [mgr] TitleID change: 0100000000001000
+[2023-01-22 16:06:31.088] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-22 16:08:25.553] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 16:08:25.571] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 16:08:26.632] [mgr] TitleID change: 01002A0012A0A000
+[2023-01-22 16:08:27.015] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 16:08:27.037] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-22 16:14:37.158] [mgr] TitleID change: 0100000000001000
+[2023-01-22 16:15:28.711] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 16:15:28.758] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 16:15:29.483] [mgr] TitleID change: 01006BB00C6F0000
+[2023-01-22 16:15:29.813] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 16:15:29.822] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-22 16:15:30.437] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 16:15:30.458] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 16:15:35.403] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 16:15:35.425] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 16:15:58.512] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 16:15:58.530] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 16:16:03.158] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 16:16:03.168] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 16:16:14.222] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 16:16:14.246] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 16:16:20.408] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 16:16:20.413] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 16:16:36.088] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 16:16:36.112] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 16:16:36.755] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 16:16:36.784] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 16:16:53.368] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 16:16:53.377] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 16:16:54.306] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 16:16:54.331] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 16:17:34.319] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 16:17:34.325] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 16:17:35.244] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 16:17:35.254] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 16:18:08.168] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 16:18:08.180] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 16:18:09.429] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 16:18:09.458] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 16:18:29.110] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 16:18:29.117] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 16:18:30.037] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 16:18:30.045] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 16:19:16.065] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 16:19:16.087] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 16:19:17.077] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 16:19:17.089] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 16:19:53.096] [mgr] TitleID change: 0100000000001000
+[2023-01-22 16:19:53.115] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-22 16:20:11.052] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 16:20:11.121] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 16:20:11.795] [mgr] TitleID change: 0100B8E016F76000
+[2023-01-22 16:20:12.123] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 16:20:12.131] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 16:28:39.583] [mgr] TitleID change: 0100000000001000
+[2023-01-22 16:28:39.695] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-22 16:28:51.729] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 16:28:51.743] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 16:28:52.771] [mgr] TitleID change: 01007EF00011E000
+[2023-01-22 16:28:53.101] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 16:28:53.113] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-22 16:28:53.805] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 16:28:54.020] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 16:28:59.353] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 16:28:59.363] [mgr] GPU clock change: 460.8 Mhz
+[2023-01-22 16:28:59.676] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 16:29:00.907] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 16:29:01.523] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 16:29:01.535] [mgr] GPU clock change: 460.8 Mhz
+[2023-01-22 16:29:12.161] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 16:29:12.170] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 16:29:28.880] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 16:29:28.890] [mgr] GPU clock change: 460.8 Mhz
+[2023-01-22 16:29:54.943] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 16:29:54.951] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 16:30:02.725] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 16:30:02.731] [mgr] GPU clock change: 460.8 Mhz
+[2023-01-22 16:30:24.750] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 16:30:24.755] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 16:30:30.679] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 16:30:30.694] [mgr] GPU clock change: 460.8 Mhz
+[2023-01-22 16:30:59.092] [mgr] TitleID change: 0100000000001000
+[2023-01-22 16:31:00.022] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-22 18:58:07.008] === sys-clk 1.0.1-5-gdcd0d5d ===
+[2023-01-22 19:55:56.008] === sys-clk 1.0.1-5-gdcd0d5d ===
+[2023-01-22 19:56:04.015] Ready
+[2023-01-22 19:56:04.035] [mgr] sys-clk status: enabled
+[2023-01-22 19:56:04.092] [mgr] TitleID change: 0100000000001000
+[2023-01-22 19:56:04.232] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 19:56:04.265] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 19:56:04.365] [mgr] Memory clock change: 1331.2 Mhz
+[2023-01-22 19:56:04.705] [cfg] Reading /config/sys-clk/config.ini
+[2023-01-22 19:56:05.626] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 19:56:05.635] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-22 20:01:33.008] === sys-clk 1.0.1-5-gdcd0d5d ===
+[2023-01-22 20:01:40.358] Ready
+[2023-01-22 20:01:40.417] [mgr] sys-clk status: enabled
+[2023-01-22 20:01:40.527] [mgr] TitleID change: 0100000000001000
+[2023-01-22 20:01:40.614] [mgr] Profile change: USB Charger
+[2023-01-22 20:01:40.629] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 20:01:40.640] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 20:01:40.703] [mgr] Memory clock change: 1331.2 Mhz
+[2023-01-22 20:01:41.026] [cfg] Reading /config/sys-clk/config.ini
+[2023-01-22 20:01:41.960] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 20:01:41.977] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-22 21:31:37.193] [mgr] Profile change: Handheld
+[2023-01-22 22:21:47.604] [mgr] Profile change: Official Charger
+[2023-01-22 22:21:48.833] [mgr] Profile change: Docked
+[2023-01-22 22:21:48.844] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-22 22:21:48.848] [mgr] Memory clock change: 1600.0 Mhz
+[2023-01-22 22:22:50.576] [mgr] Memory clock change: 1331.2 Mhz
+[2023-01-22 22:22:56.027] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-22 22:23:44.974] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-22 22:23:44.980] [mgr] Memory clock change: 1600.0 Mhz
+[2023-01-22 22:23:45.594] [mgr] Profile change: Official Charger
+[2023-01-22 22:23:45.602] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-22 22:23:45.611] [mgr] Memory clock change: 1331.2 Mhz
+[2023-01-22 22:24:02.484] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 22:24:02.495] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 22:24:04.718] [mgr] TitleID change: 010092A0172E4000
+[2023-01-22 22:24:05.048] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 22:24:05.067] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-22 22:24:07.256] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 22:24:07.306] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 22:24:25.746] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 22:24:25.811] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 22:25:25.669] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-22 22:25:25.677] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-22 22:25:25.993] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-22 22:25:25.998] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-22 23:02:34.143] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-23 14:19:31.008] === sys-clk 1.0.1-5-gdcd0d5d ===
+[2023-01-23 14:19:38.151] Ready
+[2023-01-23 14:19:38.200] [mgr] sys-clk status: enabled
+[2023-01-23 14:19:38.235] [mgr] TitleID change: 0100000000001000
+[2023-01-23 14:19:38.282] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-23 14:19:38.415] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-23 14:19:38.436] [mgr] Memory clock change: 1331.2 Mhz
+[2023-01-23 14:19:38.755] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-23 14:19:39.082] [cfg] Reading /config/sys-clk/config.ini
+[2023-01-23 14:19:39.722] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-23 14:19:39.740] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-23 14:19:47.468] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-23 14:19:47.526] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-23 14:19:48.234] [mgr] TitleID change: 01006BB00C6F0000
+[2023-01-23 14:19:48.570] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-23 14:19:48.578] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-23 14:19:49.198] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-23 14:19:49.216] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-23 14:19:54.159] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-23 14:19:54.184] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-23 14:20:08.433] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-23 14:20:08.449] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-23 14:20:12.503] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-23 14:20:12.510] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-23 14:20:27.011] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-23 14:20:27.035] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-23 14:20:27.958] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-23 14:20:27.970] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-23 14:24:49.425] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-23 14:24:49.433] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-23 14:24:50.372] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-23 14:24:50.378] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-23 14:27:13.141] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-23 14:27:13.158] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-23 14:27:13.483] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-23 14:27:13.491] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-23 14:27:23.625] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-23 14:27:23.630] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-23 14:27:24.248] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-23 14:27:24.256] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-23 14:27:27.332] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-23 14:27:27.339] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-23 14:27:27.655] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-23 14:27:27.682] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-23 14:27:29.225] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-23 14:27:29.231] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-23 14:27:29.845] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-23 14:27:29.854] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-23 14:29:04.990] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-23 14:29:04.999] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-23 14:29:05.323] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-23 14:29:05.329] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-23 14:29:20.067] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-23 14:29:20.075] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-23 14:29:20.692] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-23 14:29:20.701] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-23 14:33:32.606] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-23 14:33:32.610] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-23 14:33:32.921] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-23 14:33:32.928] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-23 14:33:48.909] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-23 14:33:48.914] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-23 14:33:49.528] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-23 14:33:49.539] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-23 14:35:03.910] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-23 14:35:03.916] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-23 14:35:04.244] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-23 14:35:04.279] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-23 14:35:56.603] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-23 14:35:56.610] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-23 14:35:56.920] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-23 14:35:56.951] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-23 14:36:15.071] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-23 14:36:15.078] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-23 14:36:15.700] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-23 14:36:15.706] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-23 14:43:49.907] [mgr] TitleID change: 0100000000001000
+[2023-01-23 14:43:50.041] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-23 16:06:15.008] === sys-clk 1.0.1-5-gdcd0d5d ===
+[2023-01-23 16:06:22.424] Ready
+[2023-01-23 16:06:22.464] [mgr] sys-clk status: enabled
+[2023-01-23 16:06:22.633] [mgr] TitleID change: 0100000000001000
+[2023-01-23 16:06:22.694] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-23 16:06:22.727] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-23 16:06:22.774] [mgr] Memory clock change: 1331.2 Mhz
+[2023-01-23 16:06:23.111] [cfg] Reading /config/sys-clk/config.ini
+[2023-01-23 16:06:24.068] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-23 16:06:24.082] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-23 17:51:43.101] [mgr] Profile change: Official Charger
+[2023-01-23 17:51:59.004] [mgr] Profile change: Docked
+[2023-01-23 17:51:59.012] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-23 17:51:59.021] [mgr] Memory clock change: 1600.0 Mhz
+[2023-01-23 17:52:28.424] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-23 17:52:28.437] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-23 17:52:30.629] [mgr] TitleID change: 010092A0172E4000
+[2023-01-23 17:52:30.968] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-23 17:52:30.978] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-23 17:52:33.174] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-23 17:52:33.189] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-23 17:52:51.718] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-23 17:52:51.772] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-23 18:32:41.436] [mgr] TitleID change: 0100000000001000
+[2023-01-23 18:32:59.939] [mgr] Profile change: Handheld
+[2023-01-23 18:32:59.952] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-23 18:32:59.956] [mgr] Memory clock change: 1331.2 Mhz
+[2023-01-23 18:33:02.721] [mgr] Profile change: Official Charger
+[2023-01-23 18:33:03.338] [mgr] Profile change: Docked
+[2023-01-23 18:33:03.343] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-23 18:33:03.351] [mgr] Memory clock change: 1600.0 Mhz
+[2023-01-23 18:33:06.117] [mgr] Memory clock change: 1331.2 Mhz
+[2023-01-23 18:33:11.289] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-24 09:16:30.344] [mgr] Profile change: Handheld
+[2023-01-24 11:12:54.664] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 11:12:54.681] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 11:12:55.513] [mgr] TitleID change: 010086901543E000
+[2023-01-24 11:12:55.846] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 11:12:56.183] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 11:12:56.822] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 11:12:56.869] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-24 11:26:04.880] [mgr] TitleID change: 0100000000001000
+[2023-01-24 15:32:23.527] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 15:32:23.545] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 15:32:24.301] [mgr] TitleID change: 010086901543E000
+[2023-01-24 15:32:24.655] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 15:32:25.008] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 15:32:25.651] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 15:32:25.710] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-24 15:39:07.934] [mgr] TitleID change: 0100000000001000
+[2023-01-24 16:08:04.090] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 16:08:04.105] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 16:08:05.075] [mgr] TitleID change: 010086901543E000
+[2023-01-24 16:08:05.424] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 16:08:05.768] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 16:08:06.418] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 16:08:06.496] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-24 16:10:45.035] [mgr] TitleID change: 0100000000001000
+[2023-01-24 21:11:50.110] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 21:11:50.121] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 21:11:51.764] [mgr] TitleID change: 0100918018510000
+[2023-01-24 21:11:52.112] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 21:11:52.444] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 21:11:58.660] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 21:11:58.676] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-24 21:31:19.719] [mgr] Profile change: Official Charger
+[2023-01-24 21:36:22.139] [mgr] Profile change: Handheld
+[2023-01-24 21:36:31.067] [mgr] TitleID change: 0100000000001000
+[2023-01-24 21:36:42.599] [mgr] Profile change: Official Charger
+[2023-01-24 21:45:19.807] [mgr] Profile change: Docked
+[2023-01-24 21:45:19.814] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 21:45:19.820] [mgr] Memory clock change: 1600.0 Mhz
+[2023-01-24 21:45:22.272] [mgr] Profile change: Handheld
+[2023-01-24 21:45:22.280] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-24 21:45:22.286] [mgr] Memory clock change: 1331.2 Mhz
+[2023-01-24 21:45:25.362] [mgr] Profile change: Official Charger
+[2023-01-24 21:45:25.982] [mgr] Profile change: Docked
+[2023-01-24 21:45:25.991] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 21:45:25.998] [mgr] Memory clock change: 1600.0 Mhz
+[2023-01-24 21:46:26.413] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 21:46:26.429] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 21:46:27.525] [mgr] TitleID change: 01002A0012A0A000
+[2023-01-24 21:46:27.867] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 21:46:27.895] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 21:51:52.464] [mgr] TitleID change: 0100000000001000
+[2023-01-24 21:52:06.897] [mgr] Profile change: Handheld
+[2023-01-24 21:52:06.902] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-24 21:52:06.908] [mgr] Memory clock change: 1331.2 Mhz
+[2023-01-24 22:27:16.008] === sys-clk 1.0.1-5-gdcd0d5d ===
+[2023-01-24 22:27:23.593] Ready
+[2023-01-24 22:27:23.690] [mgr] sys-clk status: enabled
+[2023-01-24 22:27:23.763] [mgr] TitleID change: 0100000000001000
+[2023-01-24 22:27:23.815] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 22:27:23.917] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 22:27:23.928] [mgr] Memory clock change: 1331.2 Mhz
+[2023-01-24 22:27:24.246] [cfg] Reading /config/sys-clk/config.ini
+[2023-01-24 22:27:25.482] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 22:27:25.499] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-24 22:40:05.091] [mgr] Profile change: Official Charger
+[2023-01-24 22:40:28.697] [mgr] Profile change: Handheld
+[2023-01-24 22:40:30.850] [mgr] Profile change: Official Charger
+[2023-01-24 22:40:37.839] [mgr] Profile change: Docked
+[2023-01-24 22:40:37.847] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 22:40:37.905] [mgr] Memory clock change: 1600.0 Mhz
+[2023-01-24 22:40:57.533] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 22:40:57.546] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 22:40:57.972] [mgr] TitleID change: 01002A0012A0A000
+[2023-01-24 22:40:58.605] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 22:40:58.627] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 22:41:03.996] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 22:41:04.105] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 22:41:04.442] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 22:41:04.459] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 22:41:20.439] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 22:41:20.444] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 22:52:12.832] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 22:52:12.841] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 22:52:23.950] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 22:52:23.967] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 22:52:24.279] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 22:52:24.284] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 22:54:28.262] [mgr] TitleID change: 0100000000001000
+[2023-01-24 22:54:43.060] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 22:54:43.072] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 22:54:44.300] [mgr] TitleID change: 0100A3D008C5C000
+[2023-01-24 22:54:44.685] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 22:54:44.695] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 22:56:25.962] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 22:56:26.025] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 22:56:27.252] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 22:56:27.261] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 22:56:33.396] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 22:56:33.400] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 22:56:34.016] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 22:56:34.024] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 22:56:40.160] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 22:56:40.167] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 22:56:41.787] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 22:56:41.910] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 22:57:16.844] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 22:57:16.868] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 22:57:18.146] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 22:57:18.155] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 22:58:42.585] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 22:58:42.594] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 22:58:44.125] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 22:58:44.135] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 22:59:58.940] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 22:59:58.946] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:00:10.269] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:00:10.283] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:03:09.862] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:03:09.871] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:03:12.327] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:03:12.335] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:04:33.717] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:04:33.727] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:04:42.922] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:04:42.930] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:08:43.871] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:08:43.884] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:08:45.885] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:08:45.910] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:09:55.186] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:09:55.193] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:09:59.295] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:09:59.312] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:12:20.103] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:12:20.110] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:12:25.323] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:12:25.331] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:12:33.349] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:12:33.359] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:12:38.850] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:12:38.923] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:12:47.271] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:12:47.282] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:12:49.114] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:12:49.124] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:14:09.913] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:14:09.919] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:14:10.533] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:14:10.547] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:16:33.847] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:16:33.853] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:16:35.392] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:16:35.399] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:16:45.268] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:16:45.273] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:16:45.584] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:16:45.593] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:16:53.295] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:16:53.299] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:16:53.915] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:16:53.923] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:17:01.322] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:17:01.326] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:17:01.947] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:17:01.953] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:17:29.663] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:17:29.672] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:17:30.284] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:17:30.294] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:17:34.296] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:17:34.303] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:17:34.927] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:17:34.934] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:17:44.183] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:17:44.190] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:17:44.503] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:17:44.512] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:17:46.978] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:17:46.985] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:17:47.298] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:17:47.310] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:17:51.006] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:17:51.013] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:17:51.326] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:17:51.332] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:17:53.495] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:17:53.502] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:17:53.815] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:17:53.825] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:20:59.365] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:20:59.371] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:21:00.031] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:21:00.042] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:21:09.285] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:21:09.292] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:21:10.212] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:21:10.227] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:29:23.493] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:29:23.500] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:29:24.114] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:29:24.125] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:29:29.649] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:29:29.654] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:29:30.269] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:29:30.282] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:29:47.505] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:29:47.510] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:29:47.823] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:29:47.836] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:30:56.418] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:30:56.430] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:30:57.053] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:30:57.060] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:31:08.751] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:31:08.762] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:31:09.070] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:31:09.084] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:31:29.360] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:31:29.370] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:31:29.983] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:31:29.990] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:31:33.690] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:31:33.699] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:31:35.843] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:31:35.852] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:33:03.202] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:33:03.213] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:33:03.525] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:33:03.535] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:33:11.557] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:33:11.562] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:33:12.177] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:33:12.184] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:33:26.963] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:33:26.970] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:33:27.584] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:33:27.599] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:33:33.440] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:33:33.445] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:33:33.758] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:33:33.773] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:33:36.548] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:33:36.556] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:33:37.170] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:33:37.183] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:33:39.646] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:33:39.650] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:33:40.265] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:33:40.277] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:33:44.585] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:33:44.592] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:33:45.214] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:33:45.227] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:33:53.834] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:33:53.840] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:33:54.457] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:33:54.474] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:34:52.792] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:34:52.802] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:34:54.942] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:34:54.949] [mgr] GPU clock change: 768.0 Mhz
+[2023-01-24 23:37:50.480] [mgr] Profile change: Handheld
+[2023-01-24 23:37:50.491] [mgr] GPU clock change: 460.8 Mhz
+[2023-01-24 23:37:50.498] [mgr] Memory clock change: 1331.2 Mhz
+[2023-01-24 23:38:31.326] [mgr] TitleID change: 0100000000001000
+[2023-01-24 23:38:33.065] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-24 23:42:00.661] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-24 23:42:00.671] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-24 23:42:00.986] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-24 23:42:01.003] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-25 11:05:54.931] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-25 11:05:54.941] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-25 11:05:55.258] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-25 11:05:55.273] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-25 11:06:34.920] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-25 11:06:34.932] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-25 11:06:35.261] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-25 11:06:35.266] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-25 17:29:13.304] [mgr] Profile change: Official Charger
+[2023-01-25 19:55:15.798] [mgr] Profile change: Handheld
+[2023-01-27 10:01:54.008] === sys-clk 1.0.1-5-gdcd0d5d ===
+[2023-01-27 10:01:59.933] Ready
+[2023-01-27 10:02:00.009] [mgr] sys-clk status: enabled
+[2023-01-27 10:02:00.148] [mgr] TitleID change: 0100000000001000
+[2023-01-27 10:02:00.181] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 10:02:00.218] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 10:02:00.240] [mgr] Memory clock change: 1331.2 Mhz
+[2023-01-27 10:02:00.564] [cfg] Reading /config/sys-clk/config.ini
+[2023-01-27 10:02:01.806] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 10:02:01.816] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-27 10:02:24.225] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 10:02:24.246] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 10:02:25.475] [mgr] TitleID change: 01002A0012A0A000
+[2023-01-27 10:02:25.812] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 10:02:25.823] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-27 10:04:00.569] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 10:04:00.889] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 10:04:05.494] [mgr] TitleID change: 0100000000001000
+[2023-01-27 10:06:12.008] === sys-clk 1.0.1-5-gdcd0d5d ===
+[2023-01-27 10:06:19.456] Ready
+[2023-01-27 10:06:19.540] [mgr] sys-clk status: enabled
+[2023-01-27 10:06:19.573] [mgr] TitleID change: 0100000000001000
+[2023-01-27 10:06:19.608] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 10:06:19.644] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 10:06:19.669] [mgr] Memory clock change: 1331.2 Mhz
+[2023-01-27 10:06:19.988] [cfg] Reading /config/sys-clk/config.ini
+[2023-01-27 10:06:21.218] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 10:06:21.225] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-27 10:06:43.979] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 10:06:43.989] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 10:06:46.024] [mgr] TitleID change: 0100309016E7A000
+[2023-01-27 10:06:46.358] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 10:06:46.374] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-27 10:06:47.955] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 10:06:47.968] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 10:06:53.849] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 10:06:53.867] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 10:09:01.899] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 10:09:01.925] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 10:09:22.052] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 10:09:22.065] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 10:17:24.956] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 10:17:24.989] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 10:17:40.045] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 10:17:40.061] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 10:24:52.923] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 10:24:52.951] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 10:25:05.818] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 10:25:05.877] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 10:31:08.300] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 10:31:08.356] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 10:31:24.037] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 10:31:24.044] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 10:40:18.711] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 10:40:18.750] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 10:40:37.303] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 10:40:37.310] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 10:47:55.263] [mgr] TitleID change: 0100000000001000
+[2023-01-27 10:47:55.440] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-27 10:49:13.009] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 10:49:13.028] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 10:49:15.037] [mgr] TitleID change: 010092A0172E4000
+[2023-01-27 10:49:15.367] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 10:49:15.374] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-27 10:49:17.568] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 10:49:17.619] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 10:49:36.167] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 10:49:36.210] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 10:50:39.952] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 10:50:39.963] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 10:50:40.271] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 10:50:40.277] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 10:50:56.623] [mgr] TitleID change: 0100000000001000
+[2023-01-27 10:50:56.739] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-27 10:51:07.545] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 10:51:07.561] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 10:51:08.819] [mgr] TitleID change: 010057D006492000
+[2023-01-27 10:51:09.148] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 10:51:09.157] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-27 10:51:14.692] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 10:52:07.793] [mgr] TitleID change: 0100000000001000
+[2023-01-27 10:52:07.813] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-27 10:52:13.044] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 10:52:13.059] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 10:52:14.269] [mgr] TitleID change: 01002A0012A0A000
+[2023-01-27 10:52:14.663] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 10:52:14.693] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-27 10:54:18.305] [mgr] TitleID change: 0100000000001000
+[2023-01-27 14:03:15.008] === sys-clk 1.0.1-5-gdcd0d5d ===
+[2023-01-27 14:03:21.388] Ready
+[2023-01-27 14:03:21.444] [mgr] sys-clk status: enabled
+[2023-01-27 14:03:21.577] [mgr] TitleID change: 0100000000001000
+[2023-01-27 14:03:21.605] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 14:03:21.640] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 14:03:21.688] [mgr] Memory clock change: 1331.2 Mhz
+[2023-01-27 14:03:22.016] [cfg] Reading /config/sys-clk/config.ini
+[2023-01-27 14:03:23.266] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 14:03:23.280] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-27 14:03:35.269] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 14:03:35.292] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 14:03:37.100] [mgr] TitleID change: 0100309016E7A000
+[2023-01-27 14:03:37.440] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 14:03:37.466] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-27 14:03:39.053] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 14:03:39.071] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 14:03:45.056] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 14:03:45.064] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 14:06:59.523] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 14:06:59.571] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 14:07:20.581] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 14:07:20.590] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 14:22:04.754] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 14:22:04.791] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 14:22:26.702] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 14:22:26.713] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 14:31:39.174] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 14:31:39.182] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 14:31:39.495] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 14:31:39.505] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 14:32:30.135] [mgr] TitleID change: 0100000000001000
+[2023-01-27 14:32:30.206] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-27 14:32:32.381] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 14:32:32.392] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 14:32:34.468] [mgr] TitleID change: 0100309016E7A000
+[2023-01-27 14:32:34.802] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 14:32:34.817] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-27 14:32:36.092] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 14:32:36.100] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 14:32:42.057] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 14:32:42.079] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 14:34:57.411] [mgr] TitleID change: 0100000000001000
+[2023-01-27 14:34:57.804] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 14:35:34.009] === sys-clk 1.0.1-5-gdcd0d5d ===
+[2023-01-27 14:35:39.686] Ready
+[2023-01-27 14:35:39.725] [mgr] sys-clk status: enabled
+[2023-01-27 14:35:39.823] [mgr] TitleID change: 0100000000001000
+[2023-01-27 14:35:39.882] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 14:35:39.917] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 14:35:39.930] [mgr] Memory clock change: 1331.2 Mhz
+[2023-01-27 14:35:40.262] [cfg] Reading /config/sys-clk/config.ini
+[2023-01-27 14:35:41.503] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 14:35:41.568] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-27 14:35:53.867] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 14:35:53.874] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 14:35:54.198] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 14:35:54.208] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-27 14:36:15.161] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 14:36:15.173] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 14:36:16.978] [mgr] TitleID change: 0100309016E7A000
+[2023-01-27 14:36:17.312] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 14:36:17.338] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-27 14:36:18.910] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 14:36:18.926] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 14:36:24.807] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 14:36:24.822] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 14:37:58.336] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 14:37:58.383] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 14:38:16.536] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 14:38:16.548] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 14:47:03.640] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 14:47:03.683] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 14:47:20.587] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 14:47:20.594] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 14:54:05.183] [mgr] TitleID change: 0100000000001000
+[2023-01-27 14:54:05.549] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 14:54:42.008] === sys-clk 1.0.1-5-gdcd0d5d ===
+[2023-01-27 14:54:48.128] Ready
+[2023-01-27 14:54:48.159] [mgr] sys-clk status: enabled
+[2023-01-27 14:54:48.214] [mgr] TitleID change: 0100000000001000
+[2023-01-27 14:54:48.275] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 14:54:48.390] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 14:54:48.432] [mgr] Memory clock change: 1331.2 Mhz
+[2023-01-27 14:54:48.749] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 14:54:49.122] [cfg] Reading /config/sys-clk/config.ini
+[2023-01-27 14:54:50.060] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 14:54:50.127] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-27 14:55:18.630] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 14:55:18.640] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 14:55:20.672] [mgr] TitleID change: 0100309016E7A000
+[2023-01-27 14:55:21.007] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 14:55:21.031] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-27 14:55:22.603] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 14:55:22.611] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 14:55:28.532] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 14:55:28.541] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 14:57:04.157] [mgr] TitleID change: 0100000000001000
+[2023-01-27 14:57:04.265] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-27 14:57:08.664] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 14:57:08.676] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 14:57:10.833] [mgr] TitleID change: 010092A0172E4000
+[2023-01-27 14:57:11.213] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 14:57:11.220] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-27 14:57:13.430] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 14:57:13.478] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 14:57:31.941] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 14:57:31.953] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 15:02:05.682] [mgr] TitleID change: 0100000000001000
+[2023-01-27 15:02:05.801] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-27 15:02:39.060] [mgr] TitleID change: 0100EA80032EA000
+[2023-01-27 15:02:39.126] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 15:02:39.157] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 15:02:39.490] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 15:02:39.499] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-27 15:04:17.288] [mgr] TitleID change: 0100000000001000
+[2023-01-27 15:04:27.490] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 15:04:27.507] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 15:04:28.184] [mgr] TitleID change: 010028600EBDA000
+[2023-01-27 15:04:28.525] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 15:04:28.535] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-27 15:04:29.197] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 15:04:29.249] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 15:04:35.316] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 15:04:35.324] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 15:05:12.153] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 15:05:12.161] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 15:05:14.718] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 15:05:14.801] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 15:08:12.882] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 15:08:12.890] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 15:08:16.423] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 15:08:16.437] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 15:09:11.216] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 15:09:11.228] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 15:09:12.759] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 15:09:12.772] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 15:10:17.150] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 15:10:17.162] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 15:10:18.086] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 15:10:18.097] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 15:13:33.966] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 15:13:34.055] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 15:13:36.907] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 15:13:36.919] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 15:14:00.357] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 15:14:00.370] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 15:14:01.913] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 15:14:01.920] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 15:17:30.142] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 15:17:30.240] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 15:17:33.037] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 15:17:33.048] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 15:18:02.913] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 15:18:02.922] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 15:18:03.866] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 15:18:03.882] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 15:18:21.832] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 15:18:21.886] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 15:18:24.680] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 15:18:24.690] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 15:18:32.092] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 15:18:32.118] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 15:18:33.382] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 15:18:33.391] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 15:19:17.773] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 15:19:17.787] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 15:19:20.919] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 15:19:20.931] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 15:19:41.265] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 15:19:41.273] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 15:19:42.507] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 15:19:42.518] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 15:20:03.471] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 15:20:03.478] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 15:20:04.398] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 15:20:04.407] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 15:22:14.620] [mgr] TitleID change: 0100000000001000
+[2023-01-27 15:22:14.837] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-27 15:22:17.312] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 15:22:17.329] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 15:22:17.847] [mgr] TitleID change: 0100EA80032EA000
+[2023-01-27 15:22:18.177] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 15:22:18.185] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-27 21:34:13.948] [mgr] TitleID change: 0100000000001000
+[2023-01-27 21:34:46.282] [mgr] CPU clock change: 1785.0 Mhz
+[2023-01-27 21:34:46.300] [mgr] GPU clock change: 76.8 Mhz
+[2023-01-27 21:34:47.414] [mgr] TitleID change: 010057D006492000
+[2023-01-27 21:34:47.745] [mgr] CPU clock change: 1020.0 Mhz
+[2023-01-27 21:34:47.751] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-27 21:34:53.587] [mgr] GPU clock change: 384.0 Mhz
+[2023-01-27 21:55:36.714] [mgr] TitleID change: 0100000000001000
+[2023-01-27 21:55:36.747] [mgr] GPU clock change: 307.2 Mhz
+[2023-01-28 19:46:31.501] [mgr] Profile change: Official Charger
+[2023-01-28 19:47:52.779] [mgr] Profile change: Handheld
+[2023-01-28 19:48:01.314] [mgr] Profile change: Official Charger
+[2023-01-29 12:33:30.409] [mgr] Profile change: Handheld
+[2023-01-29 12:33:34.079] [mgr] Profile change: Official Charger
+[2023-01-29 12:33:35.436] [mgr] Profile change: Handheld
+[2023-01-29 12:33:43.086] [mgr] Profile change: Official Charger
+[2023-02-06 18:29:45.474] [mgr] Profile change: Handheld

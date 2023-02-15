@@ -1,0 +1,17 @@
+{
+    "autoUpdate": true,
+    "deletePrompt": true,
+    "gAuthKey": "AIzaSyBMqv4dXnTJOGQtZZS3CBjvf748QvxSzF0",
+    "gayMode": false,
+    "httpIndexUrl": "http://",
+    "httpkeyboard": false,
+    "httplastUrl": "http://",
+    "httpoldphp": false,
+    "ignoreReqVers": true,
+    "languageSetting": 0,
+    "overClock": true,
+    "sigPatchesUrl": "https://github.com/mrdude2478/patches/releases/download/1/patches.zip",
+    "usbAck": false,
+    "useSound": true,
+    "validateNCAs": true
+}
